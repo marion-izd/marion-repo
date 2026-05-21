@@ -1,0 +1,51 @@
+{
+  "_comment": "This file was generated automatically by Supernova.io and should not be changed manually. To modify the format or content of this file, please contact your design system team.",
+  "cc": {
+    "string": {
+      "inter": {
+        "value": "Inter",
+        "type": "string"
+      },
+      "mono": {
+        "value": "IBM Plex Mono",
+        "type": "string"
+      },
+      "thin-italic": {
+        "value": "thin italic",
+        "type": "string"
+      },
+      "extra-light-italic": {
+        "value": "extra light italic",
+        "type": "string"
+      },
+      "light-italic": {
+        "value": "light italic",
+        "type": "string"
+      },
+      "regular-italic": {
+        "value": "regular italic",
+        "type": "string"
+      },
+      "medium-italic": {
+        "value": "medium italic",
+        "type": "string"
+      },
+      "semibold-italic": {
+        "value": "semi bold italic",
+        "type": "string"
+      },
+      "bold-italic": {
+        "value": "bold italic",
+        "type": "string"
+      },
+      "extrabold-italic": {
+        "value": "extra bold italic",
+        "type": "string"
+      },
+      "black-italic": {
+        "value": "black italic",
+        "type": "string"
+      }
+    }
+  }
+}
