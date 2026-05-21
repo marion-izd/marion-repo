@@ -1,0 +1,13 @@
+{
+  "tokenSetOrder": [
+    "global",
+    "test2",
+    "_Primitives/Raw",
+    "Alias Color theme/Light",
+    "Alias Color theme/Dark",
+    "Alias Size/Number",
+    ".Responsive/Desktop",
+    ".Responsive/Tablet",
+    ".Responsive/Mobile"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Breakpoint": {
+    "$extensions": {
+      "com.figma.scopes": [
+        "WIDTH_HEIGHT"
+      ],
+      "com.figma.hiddenFromPublishing": false
+    },
+    "$type": "number",
+    "$value": 1920
+  }
+}
