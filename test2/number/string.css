@@ -1,0 +1,18 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-number {
+  --cc-string-primitives-font-family-inter: "Inter";
+  --cc-string-primitives-font-family-mono: "IBM Plex Mono";
+  --cc-string-primitives-font-weight-thin-italic: "thin italic";
+  --cc-string-primitives-font-weight-extra-light-italic: "extra light italic";
+  --cc-string-primitives-font-weight-light-italic: "light italic";
+  --cc-string-primitives-font-weight-regular-italic: "regular italic";
+  --cc-string-primitives-font-weight-medium-italic: "medium italic";
+  --cc-string-primitives-font-weight-semibold-italic: "semi bold italic";
+  --cc-string-primitives-font-weight-bold-italic: "bold italic";
+  --cc-string-primitives-font-weight-extrabold-italic: "extra bold italic";
+  --cc-string-primitives-font-weight-black-italic: "black italic";
+}
